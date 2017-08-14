@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/HuYuee/babel-demo#readme",
   "dependencies": {
-    "babel-cli": "^6.24.1"
+    "babel-cli": "^6.24.1",
+    "babel-polyfill": "^6.23.0"
   },
   "devDependencies": {
-    "babel-preset-env": "^1.6.0",
-    "babel-preset-latest": "^6.24.1"
+    "babel-preset-env": "^1.6.0"
   }
 }

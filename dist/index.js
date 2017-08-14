@@ -1,5 +1,7 @@
 "use strict";
 
+require("babel-polyfill");
+
 var x = function x(a) {
   return a + 1;
 };
