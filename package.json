@@ -1,0 +1,26 @@
+{
+  "name": "babel-demo",
+  "version": "1.0.0",
+  "description": "babel的研究demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/babel-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/babel-demo/issues"
+  },
+  "homepage": "https://github.com/HuYuee/babel-demo#readme",
+  "dependencies": {
+    "babel-cli": "^6.24.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
