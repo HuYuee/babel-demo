@@ -1,4 +1,3 @@
-import  "babel-polyfill";
 
 var x = a => a + 1;
 

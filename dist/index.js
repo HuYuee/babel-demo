@@ -1,6 +1,6 @@
 "use strict";
 
-require("babel-polyfill");
+// require("http://design.yonyoucloud.com/static/babel-polyfill/6.20.0/polyfill.min.js");
 
 var x = function x(a) {
   return a + 1;
