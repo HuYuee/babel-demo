@@ -1,8 +1,21 @@
-import  "babel-polyfill";
+class aa{
+    
+}
+// // class bb extends aa{
+// //     constructor(age){
+// //         super();
+// //         this.name = 'aa';
+// //         this.age = age;
+// //     }
+// //     getInfo(){
+// //         console.log(this.age+'====='+this.getName())
+// //     }
+// // }
+// console.log(new aa('huyue').getName());
 
-var x = a => a + 1;
+// var o;
 
-var arr = [
- <h1>Hello world!</h1>,
- <h2>React is awesome</h2>,
-];
+// // 创建一个原型为null的空对象
+// o = Object.create(null);
+
+let a = <button id="xxx"/>;
